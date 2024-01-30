@@ -27,6 +27,7 @@ const config = {
     default: 'arcade',
     arcade: {
       // debug: true,
+      //implementation start,
     }
   },
   scene: initScenes()
